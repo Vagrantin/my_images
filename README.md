@@ -32,5 +32,5 @@ https://cdn.rawgit.com/Vagrantin/my_images/51214315/snow.jpg
 https://rawgit.com/Vagrantin/my_images/master/thunderstorm.jpg
 ```
 ```
-
+https://cdn.rawgit.com/Vagrantin/my_images/c7a2be65/default.jpg
 ```
